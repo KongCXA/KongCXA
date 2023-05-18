@@ -1,9 +1,11 @@
 Hi 👋🏾 My name is Kong
 =====================
 
-* 🌍  I'm based in Bangkok, Thailand
+* 🌍  I'm currently studying at **Chulalongkorn University**
 
-* 🥈 Silver medalist of TOI17
+* 🥈  Silver medalist of TOI17
+
+* ✉  Contact me via [yecgaa2344@gmail.com](mailto:yecgaa2344@gmail.com)
 
 ### Skills
 
