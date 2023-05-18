@@ -1,4 +1,4 @@
-Hi 👋 My name is Kong
+Hi 👋🏾 My name is Kong
 =====================
 
 * 🌍  I'm based in Bangkok, Thailand
