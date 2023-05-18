@@ -3,7 +3,7 @@ Hi 👋🏾 My name is Kong
 
 * 🌍  I'm based in Bangkok, Thailand
 
-* 🥈 Silver Medalist of TOI17
+* 🥈 Silver medalist of TOI17
 
 ### Skills
 
