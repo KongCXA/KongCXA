@@ -3,6 +3,8 @@ Hi 👋🏾 My name is Kong
 
 * 🌍  I'm based in Bangkok, Thailand
 
+* 🥈 Silver Medalist of TOI17
+
 ### Skills
 
 * Competitive Programming
